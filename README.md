@@ -35,7 +35,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/astro-shadcn-starter.git
+    git clone https://github.com/JGITSol/astro-shadcn-starter
     cd astro-shadcn-starter
     ```
 
