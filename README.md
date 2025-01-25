@@ -26,7 +26,7 @@ Follow these instructions to set up the project locally.
 ### Prerequisites
 
 Ensure you have the following installed:
-
+bun 
 - [Node.js](https://nodejs.org/en/download/)
 - [npm](https://www.npmjs.com/get-npm)
 
@@ -42,7 +42,7 @@ Ensure you have the following installed:
 2. **Install dependencies**:
 
     ```sh
-    npm install
+    bun install
     ```
 
 3. **Start the development server**:
